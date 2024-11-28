@@ -11,16 +11,13 @@
 
 ### Установка
 1. Клонируйте репозиторий или скачайте исходный код.
-`https://github.com/gigabait15/LibManSys.git`
+`https://github.com/AkcentEgor/LibManSys.git`
 2. перейдите в директорию с проектом
 
 ### Структура проекта
 ```
 ├── main.py           # Основной файл для запуска программы
-├── LIBRARY.py        # Файл с классом Library
-├── BOOK.py           # Файл с классом Book 
 ├── tests.py          # Тесты для проекта
-├── .gitignore        # все что не нужно в git
 └── README.md         # Документация проекта
 ```
 
